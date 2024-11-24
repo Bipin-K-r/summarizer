@@ -1,0 +1,8 @@
+Django
+djangorestframework
+transformers
+torch
+pdfplumber
+PyPDF2
+numpy
+# I have used python=3.10 (miniconda) for this project

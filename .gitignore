@@ -1,0 +1,18 @@
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# React
+node_modules/
+build/
+dist/
+
+# Python
+*.py[cod]
+*.egg
+*.egg-info/
+
+# VSCode
+.vscode/
